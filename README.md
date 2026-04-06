@@ -11,3 +11,12 @@ I am currently learning:
 - ls, cd, pwd
 - File management
 - Permissions (chmod, chown)
+
+- ## Basic Commands I Know
+
+```bash
+ls      # list files
+cd      # change directory
+pwd     # show current directory
+mkdir   # create folder
+rm      # remove file
